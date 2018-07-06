@@ -1,0 +1,29 @@
+{
+  "title":			"apps_payment_take_away",
+  "type":       "apps",
+  "vendor":			"ClicShopping",
+  "is_free":   "yes",
+  "is_core":   "yes",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "payment, cod",
+  "install":            "includes/ClicShopping/Apps/Payment/",
+  "module_directory":   "Payment",
+  "apps_name":          "COD",
+  "type_module":      "Fixe",
+  "dependance":       "",
+  "description":        "This apps allow you to your customer to paid on delivery.",
+ "image":            "ModuleInfosJson/takeaway.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
