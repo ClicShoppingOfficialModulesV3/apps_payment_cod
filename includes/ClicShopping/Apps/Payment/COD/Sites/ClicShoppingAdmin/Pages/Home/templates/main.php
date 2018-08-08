@@ -10,6 +10,7 @@
   use ClicShopping\OM\CLICSHOPPING;
   use ClicShopping\OM\Registry;
 
+  $CLICSHOPPING_MessageStack = Registry::get('MessageStack');
   $CLICSHOPPING_COD = Registry::get('COD');
 
   if ($CLICSHOPPING_MessageStack->exists('COD')) {
