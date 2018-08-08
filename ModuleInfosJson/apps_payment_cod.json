@@ -1,7 +1,7 @@
 {
   "title":			"apps_payment_take_away",
   "type":       "apps",
-  "vendor":			"ClicShopping",
+  "vendor":			"Payment",
   "is_free":   "yes",
   "is_core":   "yes",
   "website_link_to_sell" : "",
