@@ -17,6 +17,18 @@ Activate the module in Payment
 See Marketplace for all informations
 link to marketplace : 
 
-![takeaway](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_cod/blob/master/ModuleInfosJson/cod.png)
+All informations about the CliCshopping
+
+ Community : https://www.clicshopping.org
+
+ Software : https://github.com/ClicShopping
+
+ Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+ Community add on : https://github.com/ClicShoppingV3Community
+
+ trademark License info : https://www.clicshopping.org/forum/trademark/ 
+ 
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_cod/blob/master/ModuleInfosJson/cod.png)
 
 
