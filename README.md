@@ -17,7 +17,7 @@ Activate the module in Payment
 See Marketplace for all informations
 link to marketplace : 
 
-All informations about the CliCshopping
+All informations about the ClicShopping
 
  Community : https://www.clicshopping.org
 
